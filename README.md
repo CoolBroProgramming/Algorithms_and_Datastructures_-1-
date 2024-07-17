@@ -1,5 +1,6 @@
 # Algorithms_and_Datastructures_[1]
 UE Algorithms and Data Structures 1, 2024S {96.13% / 100%}
+
 Mistakes:
 - Assignment 1:	
   1.a) inner loop adds another exponent (runs on average n/2 times -> O(n²*n/2) -> O(n³): **-1p**
